@@ -8,12 +8,13 @@ using System.Configuration;
 namespace ExportReportToFile.Models {
 
   class PowerBiExportManager {
-  
-    // private readonly static string[] requiredScopes = PowerBiPermissionScopes.ManageWorkspaceAssets;
-    // private static PowerBIClient pbiClient = TokenManager.GetPowerBiClient(requiredScopes);
 
+    // use this to export with identity of service principal
     private static PowerBIClient pbiClient = TokenManager.GetPowerBiAppOnlyClient();
 
+    // use this to export with identity of a user
+    // private readonly static string[] requiredScopes = PowerBiPermissionScopes.ManageWorkspaceAssets;
+    // private static PowerBIClient pbiClient = TokenManager.GetPowerBiClient(requiredScopes);
 
     private static string ExportFolderPath = ConfigurationManager.AppSettings["export-folder-path"];
 
