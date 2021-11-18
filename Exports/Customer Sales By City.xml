@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xsi:schemaLocation="Customer_x0020_Sales_x0020_By_x0020_City https://ad3bdc409f0b4936912eeea555d3926c.pbidedicated.windows.net/webapi/capacities/5A559087-D57B-4FBB-8C8F-965D661A26CF/workloads/RsRdlEngine/rs/automatic?%2F&amp;rc%3ASchema=True" Name="Customer Sales By City" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="Customer_x0020_Sales_x0020_By_x0020_City">
+  <StateAndCityBreakdown>
+    <Textbox19>
+      <Textbox17 />
+    </Textbox19>
+    <State_Collection>
+      <State State="AL">
+        <City_Collection>
+          <City City="Birmingham, AL" Sales_Revenue="77197.39" Units_Sold="14448" Customer_Count="524" />
+          <City City="Mobile, AL" Sales_Revenue="158851.53" Units_Sold="30067" Customer_Count="1098" />
+          <City City="Tuscaloosa, AL" Sales_Revenue="24922.12" Units_Sold="3440" Customer_Count="200" />
+        </City_Collection>
+        <Textbox27 Textbox28="260971.04" Textbox29="47955" Textbox30="1822" />
+      </State>
+      <State State="AZ">
+        <City_Collection>
+          <City City="Phoenix, AZ" Sales_Revenue="418435.13" Units_Sold="69701" Customer_Count="3232" />
+          <City City="Scottsdale, AZ" Sales_Revenue="387871.51" Units_Sold="59479" Customer_Count="2859" />
+          <City City="Surprise, AZ" Sales_Revenue="71070.03" Units_Sold="12729" Customer_Count="598" />
+          <City City="Tempe, AZ" Sales_Revenue="191880.37" Units_Sold="24959" Customer_Count="1572" />
+          <City City="Tucson, AZ" Sales_Revenue="517629.36" Units_Sold="69252" Customer_Count="4145" />
+        </City_Collection>
+        <Textbox27 Textbox28="1586886.40" Textbox29="236120" Textbox30="12406" />
+      </State>
+      <State State="CA">
+        <City_Collection>
+          <City City="Alameda, CA" Sales_Revenue="89586.98" Units_Sold="10224" Customer_Count="763" />
+          <City City="Anaheim, CA" Sales_Revenue="190550.65" Units_Sold="23159" Customer_Count="1586" />
+          <City City="Bakersfield, CA" Sales_Revenue="233723.22" Units_Sold="22341" Customer_Count="2190" />
+          <City City="Burbank, CA" Sales_Revenue="66426.70" Units_Sold="9236" Customer_Count="585" />
+          <City City="Compton, CA" Sales_Revenue="117815.93" Units_Sold="16964" Customer_Count="980" />
+          <City City="Corona, CA" Sales_Revenue="73940.88" Units_Sold="6588" Customer_Count="665" />
+          <City City="Cupertino, CA" Sales_Revenue="70171.29" Units_Sold="7744" Customer_Count="609" />
+          <City City="Eureka, CA" Sales_Revenue="121842.90" Units_Sold="19086" Customer_Count="997" />
+          <City City="Folsom, CA" Sales_Revenue="125952.46" Units_Sold="17109" Customer_Count="937" />
+          <City City="Fresno, CA" Sales_Revenue="315122.65" Units_Sold="34184" Customer_Count="2891" />
+          <City City="Huntington Beach, CA" Sales_Revenue="120695.32" Units_Sold="21007" Customer_Count="927" />
+          <City City="Irvine, CA" Sales_Revenue="254390.51" Units_Sold="39963" Customer_Count="2087" />
+          <City City="Long Beach, CA" Sales_Revenue="12856.49" Units_Sold="1721" Customer_Count="99" />
+          <City City="Los Angeles, CA" Sales_Revenue="394062.95" Units_Sold="51434" Customer_Count="3170" />
+          <City City="Manhattan Beach, CA" Sales_Revenue="331963.28" Units_Sold="53660" Customer_Count="2353" />
+          <City City="Napa, CA" Sales_Revenue="235542.76" Units_Sold="30319" Customer_Count="1983" />
+          <City City="North Hollywood, CA" Sales_Revenue="71153.53" Units_Sold="7992" Customer_Count="609" />
+          <City City="Rancho Cucamonga, CA" Sales_Revenue="94422.13" Units_Sold="14757" Customer_Count="715" />
+          <City City="Sacramento, CA" Sales_Revenue="576484.06" Units_Sold="66466" Customer_Count="4920" />
+          <City City="San Diego, CA" Sales_Revenue="399989.93" Units_Sold="60734" Customer_Count="2834" />
+          <City City="San Francisco, CA" Sales_Revenue="366627.92" Units_Sold="46994" Customer_Count="3248" />
+          <City City="San Jose, CA" Sales_Revenue="814168.02" Units_Sold="79612" Customer_Count="7300" />
+          <City City="Ventura, CA" Sales_Revenue="316950.03" Units_Sold="40313" Customer_Count="2622" />
+        </City_Collection>
+        <Textbox27 Textbox28="5394440.59" Textbox29="681607" Textbox30="45070" />
+      </State>
+      <State State="CO">
+        <City_Collection>
+          <City City="Boulder, CO" Sales_Revenue="92361.39" Units_Sold="13363" Customer_Count="719" />
+          <City City="Colorado Springs, CO" Sales_Revenue="355676.45" Units_Sold="56113" Customer_Count="2541" />
+          <City City="Denver, CO" Sales_Revenue="160657.92" Units_Sold="29418" Customer_Count="1127" />
+          <City City="Fort Collins, CO" Sales_Revenue="163148.14" Units_Sold="27295" Customer_Count="1224" />
+          <City City="Glenwood Springs, CO" Sales_Revenue="82582.04" Units_Sold="15004" Customer_Count="591" />
+          <City City="Grand Junction, CO" Sales_Revenue="90505.93" Units_Sold="11390" Customer_Count="634" />
+          <City City="Pueblo, CO" Sales_Revenue="24167.34" Units_Sold="6483" Customer_Count="238" />
+          <City City="Westminster, CO" Sales_Revenue="68679.96" Units_Sold="7256" Customer_Count="570" />
+        </City_Collection>
+        <Textbox27 Textbox28="1037779.17" Textbox29="166322" Textbox30="7644" />
+      </State>
+      <State State="CT">
+        <City_Collection>
+          <City City="Greenwich, CT" Sales_Revenue="167534.68" Units_Sold="36156" Customer_Count="1070" />
+          <City City="New Britain, CT" Sales_Revenue="6393.60" Units_Sold="2189" Customer_Count="46" />
+          <City City="North Haven, CT" Sales_Revenue="40295.97" Units_Sold="7718" Customer_Count="269" />
+          <City City="Stamford, CT" Sales_Revenue="63680.09" Units_Sold="15645" Customer_Count="445" />
+          <City City="Trumbull, CT" Sales_Revenue="86329.14" Units_Sold="20605" Customer_Count="571" />
+          <City City="Waterbury, CT" Sales_Revenue="23678.86" Units_Sold="2537" Customer_Count="172" />
+          <City City="Waterford, CT" Sales_Revenue="63532.40" Units_Sold="9199" Customer_Count="481" />
+          <City City="Windsor, CT" Sales_Revenue="45644.77" Units_Sold="6644" Customer_Count="324" />
+        </City_Collection>
+        <Textbox27 Textbox28="497089.51" Textbox29="100693" Textbox30="3378" />
+      </State>
+      <State State="FL">
+        <City_Collection>
+          <City City="Brandon, FL" Sales_Revenue="63079.36" Units_Sold="8585" Customer_Count="443" />
+          <City City="Cape Coral, FL" Sales_Revenue="63834.95" Units_Sold="10099" Customer_Count="533" />
+          <City City="Clearwater, FL" Sales_Revenue="71635.74" Units_Sold="16928" Customer_Count="501" />
+          <City City="Clermont, FL" Sales_Revenue="48103.34" Units_Sold="10502" Customer_Count="325" />
+          <City City="Daytona Beach, FL" Sales_Revenue="59518.21" Units_Sold="9506" Customer_Count="433" />
+          <City City="Fort Lauderdale, FL" Sales_Revenue="76887.32" Units_Sold="16766" Customer_Count="577" />
+          <City City="Gainesville, FL" Sales_Revenue="60101.82" Units_Sold="9454" Customer_Count="435" />
+          <City City="Greenacres, FL" Sales_Revenue="63563.32" Units_Sold="10211" Customer_Count="433" />
+          <City City="Jacksonville Beach, FL" Sales_Revenue="14187.71" Units_Sold="3660" Customer_Count="108" />
+          <City City="Jacksonville, FL" Sales_Revenue="322982.56" Units_Sold="67467" Customer_Count="2096" />
+          <City City="Kissimmee, FL" Sales_Revenue="16262.08" Units_Sold="1012" Customer_Count="133" />
+          <City City="Miami, FL" Sales_Revenue="407191.82" Units_Sold="78197" Customer_Count="2822" />
+          <City City="Naples, FL" Sales_Revenue="88599.68" Units_Sold="15852" Customer_Count="573" />
+          <City City="Orlando, FL" Sales_Revenue="216552.02" Units_Sold="40114" Customer_Count="1521" />
+          <City City="Pensacola, FL" Sales_Revenue="170401.07" Units_Sold="28171" Customer_Count="1196" />
+          <City City="Riverview, FL" Sales_Revenue="48932.30" Units_Sold="6280" Customer_Count="329" />
+          <City City="Sarasota, FL" Sales_Revenue="57770.72" Units_Sold="10133" Customer_Count="406" />
+          <City City="Tallahassee, FL" Sales_Revenue="122213.00" Units_Sold="27487" Customer_Count="827" />
+          <City City="Tampa, FL" Sales_Revenue="119787.71" Units_Sold="19726" Customer_Count="851" />
+          <City City="Venice, FL" Sales_Revenue="204509.19" Units_Sold="30612" Customer_Count="1370" />
+          <City City="Vero Beach, FL" Sales_Revenue="64496.74" Units_Sold="15718" Customer_Count="459" />
+          <City City="Wesley Chapel, FL" Sales_Revenue="197571.37" Units_Sold="39409" Customer_Count="1227" />
+        </City_Collection>
+        <Textbox27 Textbox28="2558182.03" Textbox29="475889" Textbox30="17598" />
+      </State>
+      <State State="GA">
+        <City_Collection>
+          <City City="Acworth, GA" Sales_Revenue="15371.37" Units_Sold="2604" Customer_Count="109" />
+          <City City="Athens, GA" Sales_Revenue="145656.05" Units_Sold="31791" Customer_Count="1065" />
+          <City City="Atlanta, GA" Sales_Revenue="734580.58" Units_Sold="124665" Customer_Count="5071" />
+          <City City="Augusta, GA" Sales_Revenue="100679.55" Units_Sold="18483" Customer_Count="714" />
+          <City City="Austell, GA" Sales_Revenue="97740.38" Units_Sold="20254" Customer_Count="667" />
+          <City City="Columbus, GA" Sales_Revenue="75884.91" Units_Sold="12425" Customer_Count="584" />
+          <City City="Fayetteville, GA" Sales_Revenue="58772.07" Units_Sold="13650" Customer_Count="430" />
+          <City City="Norcross, GA" Sales_Revenue="38743.87" Units_Sold="4972" Customer_Count="339" />
+          <City City="Savannah, GA" Sales_Revenue="440248.70" Units_Sold="76472" Customer_Count="3098" />
+        </City_Collection>
+        <Textbox27 Textbox28="1707677.48" Textbox29="305316" Textbox30="12077" />
+      </State>
+      <State State="LA">
+        <City_Collection>
+          <City City="Baton Rouge, LA" Sales_Revenue="187443.55" Units_Sold="40557" Customer_Count="1261" />
+          <City City="Covington, LA" Sales_Revenue="39287.37" Units_Sold="7497" Customer_Count="284" />
+          <City City="Lafayette, LA" Sales_Revenue="78495.48" Units_Sold="16335" Customer_Count="495" />
+          <City City="Lake Charles, LA" Sales_Revenue="84419.62" Units_Sold="15470" Customer_Count="542" />
+          <City City="Shreveport, LA" Sales_Revenue="60799.46" Units_Sold="12042" Customer_Count="384" />
+        </City_Collection>
+        <Textbox27 Textbox28="450445.48" Textbox29="91901" Textbox30="2966" />
+      </State>
+      <State State="MA">
+        <City_Collection>
+          <City City="Braintree, MA" Sales_Revenue="13194.03" Units_Sold="1813" Customer_Count="101" />
+          <City City="Dorchester, MA" Sales_Revenue="136026.84" Units_Sold="23506" Customer_Count="935" />
+          <City City="Hanover, MA" Sales_Revenue="9877.15" Units_Sold="744" Customer_Count="78" />
+          <City City="Marlborough, MA" Sales_Revenue="115772.89" Units_Sold="21843" Customer_Count="777" />
+          <City City="North Attleboro, MA" Sales_Revenue="57635.50" Units_Sold="13170" Customer_Count="384" />
+          <City City="North Dartmouth, MA" Sales_Revenue="56379.44" Units_Sold="13508" Customer_Count="336" />
+          <City City="Revere, MA" Sales_Revenue="43980.61" Units_Sold="9418" Customer_Count="315" />
+          <City City="Saugus, MA" Sales_Revenue="60323.05" Units_Sold="11997" Customer_Count="397" />
+          <City City="Wareham, MA" Sales_Revenue="59206.25" Units_Sold="12038" Customer_Count="420" />
+          <City City="Worcester, MA" Sales_Revenue="17139.40" Units_Sold="2434" Customer_Count="122" />
+        </City_Collection>
+        <Textbox27 Textbox28="569535.16" Textbox29="110471" Textbox30="3865" />
+      </State>
+      <State State="NC">
+        <City_Collection>
+          <City City="Asheville, NC" Sales_Revenue="208508.73" Units_Sold="32513" Customer_Count="1359" />
+          <City City="Cary, NC" Sales_Revenue="129393.68" Units_Sold="22172" Customer_Count="923" />
+          <City City="Charlotte, NC" Sales_Revenue="229870.05" Units_Sold="42778" Customer_Count="1591" />
+          <City City="Durham, NC" Sales_Revenue="154423.62" Units_Sold="26710" Customer_Count="1113" />
+          <City City="Greensboro, NC" Sales_Revenue="188809.58" Units_Sold="32236" Customer_Count="1350" />
+          <City City="Greenville, NC" Sales_Revenue="51754.92" Units_Sold="8525" Customer_Count="378" />
+          <City City="Hickory, NC" Sales_Revenue="52947.81" Units_Sold="8596" Customer_Count="337" />
+          <City City="Monroe, NC" Sales_Revenue="81353.42" Units_Sold="21196" Customer_Count="543" />
+          <City City="Raleigh, NC" Sales_Revenue="293899.81" Units_Sold="56994" Customer_Count="1986" />
+          <City City="Wake Forest, NC" Sales_Revenue="29593.34" Units_Sold="5513" Customer_Count="225" />
+          <City City="Winston Salem, NC" Sales_Revenue="28314.48" Units_Sold="4450" Customer_Count="207" />
+        </City_Collection>
+        <Textbox27 Textbox28="1448869.44" Textbox29="261683" Textbox30="10012" />
+      </State>
+      <State State="NH">
+        <City_Collection>
+          <City City="Bedford, NH" Sales_Revenue="94512.67" Units_Sold="17732" Customer_Count="680" />
+          <City City="Concord, NH" Sales_Revenue="48849.05" Units_Sold="9899" Customer_Count="331" />
+          <City City="Nashua, NH" Sales_Revenue="113151.41" Units_Sold="19970" Customer_Count="792" />
+        </City_Collection>
+        <Textbox27 Textbox28="256513.13" Textbox29="47601" Textbox30="1803" />
+      </State>
+      <State State="NJ">
+        <City_Collection>
+          <City City="Burlington, NJ" Sales_Revenue="46572.86" Units_Sold="7790" Customer_Count="309" />
+          <City City="Cherry Hill, NJ" Sales_Revenue="28508.84" Units_Sold="5544" Customer_Count="181" />
+          <City City="Clark, NJ" Sales_Revenue="55997.41" Units_Sold="10380" Customer_Count="380" />
+          <City City="Edgewater, NJ" Sales_Revenue="42658.00" Units_Sold="9113" Customer_Count="315" />
+          <City City="Hackensack, NJ" Sales_Revenue="29592.28" Units_Sold="6624" Customer_Count="209" />
+          <City City="Jersey City, NJ" Sales_Revenue="36883.70" Units_Sold="6534" Customer_Count="268" />
+          <City City="Mays Landing, NJ" Sales_Revenue="9744.78" Units_Sold="949" Customer_Count="67" />
+          <City City="Middletown, NJ" Sales_Revenue="23536.49" Units_Sold="5701" Customer_Count="168" />
+          <City City="Mount Laurel, NJ" Sales_Revenue="40444.57" Units_Sold="7834" Customer_Count="293" />
+          <City City="Paramus, NJ" Sales_Revenue="49282.98" Units_Sold="10649" Customer_Count="320" />
+          <City City="Princeton, NJ" Sales_Revenue="51707.91" Units_Sold="6680" Customer_Count="377" />
+          <City City="Riverdale, NJ" Sales_Revenue="59108.93" Units_Sold="9404" Customer_Count="414" />
+          <City City="Rockaway, NJ" Sales_Revenue="35695.73" Units_Sold="8894" Customer_Count="224" />
+        </City_Collection>
+        <Textbox27 Textbox28="509734.48" Textbox29="96096" Textbox30="3525" />
+      </State>
+      <State State="NM">
+        <City_Collection>
+          <City City="Albuquerque, NM" Sales_Revenue="517978.75" Units_Sold="76319" Customer_Count="4294" />
+          <City City="Rio Rancho, NM" Sales_Revenue="78591.20" Units_Sold="8146" Customer_Count="652" />
+          <City City="Roswell, NM" Sales_Revenue="106841.49" Units_Sold="17568" Customer_Count="812" />
+          <City City="Santa Fe, NM" Sales_Revenue="130373.06" Units_Sold="21234" Customer_Count="1049" />
+        </City_Collection>
+        <Textbox27 Textbox28="833784.50" Textbox29="123267" Textbox30="6807" />
+      </State>
+      <State State="NY">
+        <City_Collection>
+          <City City="Amherst, NY" Sales_Revenue="50281.65" Units_Sold="11109" Customer_Count="332" />
+          <City City="Amsterdam, NY" Sales_Revenue="66811.55" Units_Sold="13930" Customer_Count="473" />
+          <City City="Bronx, NY" Sales_Revenue="133534.93" Units_Sold="25451" Customer_Count="851" />
+          <City City="Brooklyn, NY" Sales_Revenue="299407.70" Units_Sold="65897" Customer_Count="1921" />
+          <City City="Buffalo, NY" Sales_Revenue="39401.66" Units_Sold="5637" Customer_Count="283" />
+          <City City="Flushing, NY" Sales_Revenue="57899.04" Units_Sold="7080" Customer_Count="428" />
+          <City City="Mount Vernon, NY" Sales_Revenue="50782.22" Units_Sold="5226" Customer_Count="399" />
+          <City City="New York, NY" Sales_Revenue="75937.20" Units_Sold="18778" Customer_Count="506" />
+          <City City="Riverhead, NY" Sales_Revenue="72820.77" Units_Sold="11719" Customer_Count="466" />
+          <City City="Rochester, NY" Sales_Revenue="112118.59" Units_Sold="28374" Customer_Count="698" />
+          <City City="Schenectady, NY" Sales_Revenue="201767.08" Units_Sold="38358" Customer_Count="1326" />
+          <City City="Syracuse, NY" Sales_Revenue="85335.43" Units_Sold="16874" Customer_Count="560" />
+          <City City="White Plains, NY" Sales_Revenue="57431.39" Units_Sold="9689" Customer_Count="387" />
+        </City_Collection>
+        <Textbox27 Textbox28="1303529.21" Textbox29="258122" Textbox30="8630" />
+      </State>
+      <State State="OH">
+        <City_Collection>
+          <City City="Akron, OH" Sales_Revenue="7814.40" Units_Sold="1687" Customer_Count="53" />
+          <City City="Amherst, OH" Sales_Revenue="51957.89" Units_Sold="12812" Customer_Count="323" />
+          <City City="Beavercreek, OH" Sales_Revenue="55611.45" Units_Sold="9630" Customer_Count="391" />
+          <City City="Cincinnati, OH" Sales_Revenue="105555.03" Units_Sold="17272" Customer_Count="753" />
+          <City City="Cleveland, OH" Sales_Revenue="73616.41" Units_Sold="13101" Customer_Count="482" />
+          <City City="Columbus, OH" Sales_Revenue="76356.31" Units_Sold="15280" Customer_Count="563" />
+          <City City="Dayton, OH" Sales_Revenue="25719.30" Units_Sold="3774" Customer_Count="208" />
+          <City City="Toledo, OH" Sales_Revenue="20307.32" Units_Sold="4044" Customer_Count="168" />
+        </City_Collection>
+        <Textbox27 Textbox28="416938.11" Textbox29="77600" Textbox30="2941" />
+      </State>
+      <State State="OR">
+        <City_Collection>
+          <City City="Albany, OR" Sales_Revenue="146489.56" Units_Sold="20198" Customer_Count="1249" />
+          <City City="Beaverton, OR" Sales_Revenue="303939.89" Units_Sold="41580" Customer_Count="2570" />
+          <City City="Bend, OR" Sales_Revenue="227551.63" Units_Sold="24727" Customer_Count="1951" />
+          <City City="Eugene, OR" Sales_Revenue="205497.13" Units_Sold="27490" Customer_Count="1722" />
+          <City City="Portland, OR" Sales_Revenue="603359.46" Units_Sold="61577" Customer_Count="5428" />
+          <City City="Salem, OR" Sales_Revenue="181499.90" Units_Sold="24573" Customer_Count="1668" />
+          <City City="Springfield, OR" Sales_Revenue="120822.15" Units_Sold="15692" Customer_Count="959" />
+        </City_Collection>
+        <Textbox27 Textbox28="1789159.72" Textbox29="215837" Textbox30="15547" />
+      </State>
+      <State State="PA">
+        <City_Collection>
+          <City City="Allentown, PA" Sales_Revenue="129999.38" Units_Sold="25659" Customer_Count="898" />
+          <City City="Altoona, PA" Sales_Revenue="54772.99" Units_Sold="12715" Customer_Count="364" />
+          <City City="Erie, PA" Sales_Revenue="70167.57" Units_Sold="14341" Customer_Count="465" />
+          <City City="Glen Mills, PA" Sales_Revenue="23286.69" Units_Sold="5015" Customer_Count="158" />
+          <City City="Harrisburg, PA" Sales_Revenue="106913.80" Units_Sold="22554" Customer_Count="700" />
+          <City City="Lancaster, PA" Sales_Revenue="56491.84" Units_Sold="9156" Customer_Count="343" />
+          <City City="Philadelphia, PA" Sales_Revenue="247136.94" Units_Sold="52718" Customer_Count="1693" />
+          <City City="Pittsburgh, PA" Sales_Revenue="69688.35" Units_Sold="14458" Customer_Count="454" />
+          <City City="Pottstown, PA" Sales_Revenue="56232.88" Units_Sold="7086" Customer_Count="379" />
+          <City City="Reading, PA" Sales_Revenue="72801.92" Units_Sold="14520" Customer_Count="463" />
+        </City_Collection>
+        <Textbox27 Textbox28="887492.36" Textbox29="178222" Textbox30="5917" />
+      </State>
+      <State State="RI">
+        <City_Collection>
+          <City City="Lincoln, RI" Sales_Revenue="39758.18" Units_Sold="6484" Customer_Count="290" />
+          <City City="Smithfield, RI" Sales_Revenue="46066.39" Units_Sold="6804" Customer_Count="300" />
+          <City City="Warwick, RI" Sales_Revenue="117855.31" Units_Sold="23264" Customer_Count="798" />
+        </City_Collection>
+        <Textbox27 Textbox28="203679.88" Textbox29="36552" Textbox30="1388" />
+      </State>
+      <State State="SC">
+        <City_Collection>
+          <City City="Aiken, SC" Sales_Revenue="61548.40" Units_Sold="12317" Customer_Count="400" />
+          <City City="Charleston, SC" Sales_Revenue="46237.42" Units_Sold="7331" Customer_Count="307" />
+          <City City="Columbia, SC" Sales_Revenue="179263.84" Units_Sold="42256" Customer_Count="1158" />
+          <City City="Florence, SC" Sales_Revenue="50528.86" Units_Sold="3905" Customer_Count="325" />
+          <City City="Myrtle Beach, SC" Sales_Revenue="120688.04" Units_Sold="17054" Customer_Count="805" />
+        </City_Collection>
+        <Textbox27 Textbox28="458266.56" Textbox29="82863" Textbox30="2995" />
+      </State>
+      <State State="TN">
+        <City_Collection>
+          <City City="Brentwood, TN" Sales_Revenue="63212.96" Units_Sold="9559" Customer_Count="468" />
+          <City City="Chattanooga, TN" Sales_Revenue="66121.40" Units_Sold="12468" Customer_Count="434" />
+          <City City="Clarksville, TN" Sales_Revenue="36966.81" Units_Sold="5674" Customer_Count="264" />
+          <City City="Knoxville, TN" Sales_Revenue="187463.78" Units_Sold="40177" Customer_Count="1279" />
+          <City City="Maryville, TN" Sales_Revenue="51304.38" Units_Sold="9923" Customer_Count="376" />
+          <City City="Memphis, TN" Sales_Revenue="124882.55" Units_Sold="22670" Customer_Count="854" />
+          <City City="Murfreesboro, TN" Sales_Revenue="57092.98" Units_Sold="9444" Customer_Count="387" />
+          <City City="Nashville, TN" Sales_Revenue="141236.45" Units_Sold="28545" Customer_Count="1018" />
+        </City_Collection>
+        <Textbox27 Textbox28="728281.31" Textbox29="138460" Textbox30="5080" />
+      </State>
+      <State State="TX">
+        <City_Collection>
+          <City City="Amarillo, TX" Sales_Revenue="62419.03" Units_Sold="4351" Customer_Count="514" />
+          <City City="Arlington, TX" Sales_Revenue="81851.75" Units_Sold="10339" Customer_Count="591" />
+          <City City="Austin, TX" Sales_Revenue="762745.81" Units_Sold="128823" Customer_Count="5654" />
+          <City City="Dallas, TX" Sales_Revenue="711301.57" Units_Sold="118206" Customer_Count="5122" />
+          <City City="El Paso, TX" Sales_Revenue="370480.04" Units_Sold="64117" Customer_Count="2758" />
+          <City City="Fort Worth, TX" Sales_Revenue="197120.79" Units_Sold="28685" Customer_Count="1606" />
+          <City City="Houston, TX" Sales_Revenue="678015.42" Units_Sold="113131" Customer_Count="4942" />
+          <City City="Lubbock, TX" Sales_Revenue="185019.64" Units_Sold="31432" Customer_Count="1355" />
+          <City City="San Antonio, TX" Sales_Revenue="780521.32" Units_Sold="145663" Customer_Count="5408" />
+        </City_Collection>
+        <Textbox27 Textbox28="3829475.37" Textbox29="644747" Textbox30="27950" />
+      </State>
+      <State State="UT">
+        <City_Collection>
+          <City City="Layton, UT" Sales_Revenue="102378.32" Units_Sold="16103" Customer_Count="796" />
+          <City City="Riverdale, UT" Sales_Revenue="91007.64" Units_Sold="10926" Customer_Count="708" />
+          <City City="Salt Lake City, UT" Sales_Revenue="191505.04" Units_Sold="29314" Customer_Count="1396" />
+        </City_Collection>
+        <Textbox27 Textbox28="384891.00" Textbox29="56343" Textbox30="2900" />
+      </State>
+      <State State="VA">
+        <City_Collection>
+          <City City="Charlottesville, VA" Sales_Revenue="94155.73" Units_Sold="21287" Customer_Count="633" />
+          <City City="Chesapeake, VA" Sales_Revenue="146913.30" Units_Sold="25203" Customer_Count="1019" />
+          <City City="Fredericksburg, VA" Sales_Revenue="101735.71" Units_Sold="20945" Customer_Count="630" />
+          <City City="Glen Allen, VA" Sales_Revenue="17752.30" Units_Sold="4526" Customer_Count="109" />
+          <City City="Richmond, VA" Sales_Revenue="167094.49" Units_Sold="27589" Customer_Count="1148" />
+          <City City="Virginia Beach, VA" Sales_Revenue="262207.77" Units_Sold="53892" Customer_Count="1794" />
+          <City City="Williamsburg, VA" Sales_Revenue="153145.40" Units_Sold="28994" Customer_Count="1114" />
+          <City City="Winchester, VA" Sales_Revenue="50449.71" Units_Sold="9295" Customer_Count="317" />
+        </City_Collection>
+        <Textbox27 Textbox28="993454.41" Textbox29="191731" Textbox30="6764" />
+      </State>
+      <State State="WA">
+        <City_Collection>
+          <City City="Bellevue, WA" Sales_Revenue="190926.55" Units_Sold="23828" Customer_Count="1625" />
+          <City City="Issaquah, WA" Sales_Revenue="159067.82" Units_Sold="19317" Customer_Count="1427" />
+          <City City="Redmond, WA" Sales_Revenue="165562.08" Units_Sold="16602" Customer_Count="1399" />
+          <City City="Seattle, WA" Sales_Revenue="387684.32" Units_Sold="50923" Customer_Count="3244" />
+          <City City="Spokane, WA" Sales_Revenue="129664.86" Units_Sold="16353" Customer_Count="1133" />
+          <City City="Vancouver, WA" Sales_Revenue="648635.51" Units_Sold="96799" Customer_Count="5331" />
+        </City_Collection>
+        <Textbox27 Textbox28="1681541.14" Textbox29="223822" Textbox30="14159" />
+      </State>
+    </State_Collection>
+    <Textbox21>
+      <Textbox22 Textbox23="29788617.48" Textbox24="4849220" Textbox25="223244" />
+    </Textbox21>
+  </StateAndCityBreakdown>
+</Report>
